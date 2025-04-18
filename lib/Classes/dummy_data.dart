@@ -1,0 +1,62 @@
+import 'package:jervis/Classes/FoodItems.dart';
+
+final List<FoodItems> fdclassKacchiBhai = [
+  FoodItems(name: "Kacchi", url: "https://img.freepik.com/free-photo/close-up-appetizing-ramadan-meal_23-2151182540.jpg?ga=GA1.1.1339044167.1744813983&semt=ais_hybrid&w=740", category: "Kacchi", price: 250),
+  FoodItems(name: "Mutton Kacchi", url: "https://media.istockphoto.com/id/2164866937/photo/delicious-kacchi-biryani.jpg?s=612x612&w=0&k=20&c=FSApv0NCLaKzRILy8ZdNd4ZXyO6qMFxUNUjYQ7Qc_lU=", category: "Kacchi", price: 350),
+  FoodItems(name: "Special Biriyani", url: "https://images.unsplash.com/photo-1589302168068-964664d93dc0?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 387w, https://images.unsplash.com/photo-1589302168068-964664d93dc0?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 687w, https://images.unsplash.com/photo-1589302168068-964664d93dc0?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 774w, https://images.unsplash.com/photo-1589302168068-964664d93dc0?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 987w, https://images.unsplash.com/photo-1589302168068-964664d93dc0?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 1287w, https://images.unsplash.com/photo-1589302168068-964664d93dc0?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 1374w, https://images.unsplash.com/photo-1589302168068-964664d93dc0?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 1587w, https://images.unsplash.com/photo-1589302168068-964664d93dc0?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 1887w, https://images.unsplash.com/photo-1589302168068-964664d93dc0?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 1974w, https://images.unsplash.com/photo-1589302168068-964664d93dc0?q=80&w=2187&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 2187w, https://images.unsplash.com/photo-1589302168068-964664d93dc0?q=80&w=2487&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 2487w, https://images.unsplash.com/photo-1589302168068-964664d93dc0?q=80&w=2574&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 2574w, https://images.unsplash.com/photo-1589302168068-964664d93dc0?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 2787w, https://images.unsplash.com/photo-1589302168068-964664d93dc0?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 3087w, https://images.unsplash.com/photo-1589302168068-964664d93dc0?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 3174w, https://images.unsplash.com/photo-1589302168068-964664d93dc0?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 3387w, https://images.unsplash.com/photo-1589302168068-964664d93dc0?q=80&w=3687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 3687w, https://images.unsplash.com/photo-1589302168068-964664d93dc0?q=80&w=3774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 3774w, https://images.unsplash.com/photo-1589302168068-964664d93dc0?q=80&w=3987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 3987w, https://images.unsplash.com/photo-1589302168068-964664d93dc0?q=80&w=4000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 4000w", category: "Biriyani", price: 300),
+];
+final List<FoodItems> redchiliItems = [
+  FoodItems(
+    name: "Red Chili Chicken",
+    url: "https://thumbs.dreamstime.com/z/indian-chilli-chicken-dish-9720561.jpg?ct=jpeg", // example image
+    category: "Chinese",
+    price: 180,
+  ),
+  FoodItems(
+    name: "Beef Chili Dry",
+    url: "https://img.freepik.com/free-photo/top-view-medium-cooked-steak-with-garlic-onion-red-chili-pepper-parchment-paper_141793-2442.jpg?ga=GA1.1.1339044167.1744813983&semt=ais_hybrid&w=740", // example image
+    category: "Chinese",
+    price: 220,
+  ),
+  FoodItems(
+    name: "Fried Rice",
+    url: "https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 870w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 1170w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 1470w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 1740w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 1770w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 2070w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 2340w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 2370w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 2670w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 2940w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 2970w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 3270w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 3540w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=3570&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 3570w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 3870w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=4140&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 4140w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=4170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 4170w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=4470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 4470w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=4740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 4740w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=4770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 4770w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=5070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 5070w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=5340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 5340w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=5370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 5370w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=5670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 5670w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=5940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 5940w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=5970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 5970w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=6270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 6270w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=6540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 6540w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=6570&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 6570w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=6870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 6870w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=7140&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 7140w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=7170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 7170w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=7470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 7470w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=7740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 7740w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=7770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 7770w, https://images.unsplash.com/photo-1609570324378-ec0c4c9b6ba8?q=80&w=7952&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 7952w", // example image
+    category: "Rice",
+    price: 150,
+  ),
+];
+
+final List<FoodItems> fdclassHaji = [
+  FoodItems(name: "Haji Biriyani", url: "https://c8.alamy.com/comp/JMEC63/famous-haji-biriyani-dhaka-bangladesh-JMEC63.jpg", category: "Biriyani", price: 250)];
+
+late final List<Restuarant> resClass = [
+  Restuarant(
+    restuarantName: "Kacchi Bhai",
+    foodItems: fdclassKacchiBhai,
+    url: "https://plus.unsplash.com/premium_photo-1661883237884-263e8de8869b?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  ),
+  Restuarant(
+    restuarantName: "Haji Biriyani",
+    foodItems: fdclassHaji,
+    url: "https://images.pexels.com/photos/1307698/pexels-photo-1307698.jpeg",
+  ),
+  Restuarant(
+    restuarantName: "Red Chili",
+    foodItems: redchiliItems,
+    url: "https://images.pexels.com/photos/776538/pexels-photo-776538.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", // image of spicy food
+  ),
+];
+List ofList = [fdclassKacchiBhai, fdclassHaji, redchiliItems];
+List all_fooditems = ofList.expand((e) => e).toList();
+List all_categories = all_fooditems.map((item) => item.category).toSet().toList();
+
+List<CartModel> cart_data = [];
+List<CartModel>order_data=[];
+
+FoodItems x = FoodItems(name: "Hi", url: "Null", category: "BOOK", price: 1212);
+class CartModel{
+  int quantity;
+  double total;
+  final FoodItems item;
+  CartModel({required this.quantity,required this.total,required this.item});
+}

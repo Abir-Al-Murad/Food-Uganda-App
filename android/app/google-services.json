@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "506268871299",
+    "project_id": "food-uganda",
+    "storage_bucket": "food-uganda.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506268871299:android:12002cc29f6ba2318e89b6",
+        "android_client_info": {
+          "package_name": "com.example.jervis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk7soiZKfosZNDQUvJffz2eCqnZezXOoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
