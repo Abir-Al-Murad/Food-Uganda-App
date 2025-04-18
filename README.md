@@ -1,16 +1,23 @@
-# jervis
+# 🍽️ Restaurant App
 
-A new Flutter project.
+A beautiful and functional restaurant app built using **Flutter**. Users can browse menus, view categorized food items, place orders, and manage their profiles – all in a smooth and interactive UI.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🧾 Menu browsing
+- 🍔 Category-based food listing
+- 🛒 Add to cart & place orders
+- 📦 Track past orders
+- 👤 User profile management
+- 📸 Display food images
 
-A few resources to get you started if this is your first Flutter project:
+## 📽️ Demo Video
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[▶️ Watch the app demo on Google Drive](https://drive.google.com/file/d/1M2qfoIQ-Mh35zHk9Du4wqmB31AUzaEdt/view?usp=drivesdk)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Flutter** – Frontend framework
+- **Dart** – Programming language
+- **Firebase** – (For authentication and database)
+
